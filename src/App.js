@@ -20,7 +20,7 @@ function App() {
           <Route path="/PageThree" element={<PageThree />}/>
           <Route path="/PageFour" element={<PageFour />}/>
           <Route path="/PageFive" element={<PageFive />}/>
-        <Route path="/PageSix" element={<PageSix />}/>
+          <Route path="/PageSix" element={<PageSix />}/>
           <Route path="/PageSeven" element={<PageSeven />}/>
           <Route path="/PageEight" element={<PageEight />}/>
           <Route path="/PageNine" element={<PageNine />}/>  

@@ -8,7 +8,7 @@ function Form () {
     const navigate=useNavigate();
     const handleSubmit=(event)=>{
         event.preventDefault();
-        if (ans==='michigan' || ans=='MICHIGAN' || ans=='Michigan')
+        if (ans==='michigan' || ans==='MICHIGAN' || ans==='Michigan')
         {
           navigate('/PageTwo');
         }

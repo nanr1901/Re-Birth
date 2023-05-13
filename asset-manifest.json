@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.07c4ef1e.css",
-    "main.js": "./static/js/main.53c02171.js",
-    "index.html": "./index.html",
-    "main.07c4ef1e.css.map": "./static/css/main.07c4ef1e.css.map",
-    "main.53c02171.js.map": "./static/js/main.53c02171.js.map"
+    "main.css": "/Re-Birth/static/css/main.07c4ef1e.css",
+    "main.js": "/Re-Birth/static/js/main.53c02171.js",
+    "index.html": "/Re-Birth/index.html",
+    "main.07c4ef1e.css.map": "/Re-Birth/static/css/main.07c4ef1e.css.map",
+    "main.53c02171.js.map": "/Re-Birth/static/js/main.53c02171.js.map"
   },
   "entrypoints": [
     "static/css/main.07c4ef1e.css",

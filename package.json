@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "0.1.0",
   "proxy": "http://localhost:3001",
-  "homepage": "http://nanr1901.github.io/Re-Birth",
+  "homepage": "https://nanr1901.github.io/Re-Birth",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

@@ -1,0 +1,12 @@
+.welcomeText{
+    align-self: center;
+    display:flex;
+    align-items: left;
+    justify-content: center;
+    font-family:'Courier New', Courier, monospace;
+    flex-direction: column;
+    font-weight: bold;
+    padding:5rem;
+    width: 70%;
+}
+

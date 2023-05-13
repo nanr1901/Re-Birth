@@ -1,21 +1,16 @@
 import React from "react";
 import "./Home.css";
-import NavBar from "../NavBar/NavBar";
-import Login from './Components/Login/Login';
-import About_us from "./Components/About_us/About_us";
-import Footer from "../Footer/Footer";
-import Recruitment from "./Components/Recruitment/Recruitment";
+import Page from "./Components/Page/Page";
+import Form from './Components/Form/Form';
+
 
 const Home=()=>
 {
     return(
-        <>
-        <NavBar/>
-        <Login/>
-        <About_us/>
-        <Recruitment/>
-        <Footer/>
-        </>
+        <div className="master">
+        <Page/>
+        <Form/>
+        </div>
 
     );
 }
